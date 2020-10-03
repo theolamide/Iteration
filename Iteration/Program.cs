@@ -10,7 +10,9 @@ namespace Iteration
             {
                 Console.WriteLine(i);
             }
+
             Console.ReadLine();
+{}
         }
     }
 }
